@@ -7,7 +7,6 @@ El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes h
 * Se identificarán las partes que componen un sistema, describirá el sistema y lo adaptará a las características de linealidad principalmente.
 * Se comprenderán las diferentes herramientas que existen para representar un sistema lineal en diferentes situaciones y bajo diferentes puntos de análisis.
 * Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y análisis de señales y sistemas.
----
 ### Información de contacto
 * **Telegram group:** [enlace](https://t.me/+Xf9vcdixHuQxM2Rh)
 
@@ -15,10 +14,8 @@ El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes h
 
 ---
 ## Contenido
-
 0. **Presentación del curso *Teoría de Sistemas Lineales***
 	* Descargar presentación [PDF](https://github.com/marcoteran/lst/raw/master/lectures/00_linearsystemtheory_syllabus.pdf)
-		- **Taller 00:** *Taller de repaso matemático* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_mathematicalreview.pdf) <sub>**(*deadline:* 28.07.2022)**</sub>
 
 ---		
 ## Laboratorios
@@ -35,17 +32,13 @@ El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes h
 	* <sub>Signal Processing Onramp</sub>
 ---
 ## Material adicional
-
-* **Hoja de formulas** [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/mathsheets/mathsheetbasic.pdf)
-* **Instalación de MATLAB licencia Multicampus** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/files/_others/matlabwidecampus_installation.pdf)
-* **Matlab Cheatsheet** [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/introtomatlab/documentation/MatlabCheatsheet.pdf)
+* **Hoja de formulas** [Descargar](https://github.com/marcoteran/lst/raw/master/mathsheets/mathsheetbasic.pdf)
+* **Instalación de MATLAB licencia Multicampus** [PDF](https://github.com/marcoteran/lst/raw/master/files/_others/matlabwidecampus_installation.pdf)
+* **Matlab Cheatsheet** [Descargar](https://github.com/marcoteran/lst/raw/master/laboratory/introtomatlab/documentation/MatlabCheatsheet.pdf)
 
 ---
 ## Foro literario
 Libro para leer durante el semestre:
-*Harari, Yuval Noah.* **21 lecciones para el siglo XXI**. Debate (2018).
+***Peterson, Jordan.*** **12 reglas para la vida**. Planeta (2018).
 ---
 ## Bibliografía
-
-<br>
-#### Find out more at our [Website].
