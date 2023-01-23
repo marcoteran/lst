@@ -8,8 +8,7 @@ El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes h
 * Se comprenderán las diferentes herramientas que existen para representar un sistema lineal en diferentes situaciones y bajo diferentes puntos de análisis.
 * Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y análisis de señales y sistemas.
 ### Información de contacto
-* **Telegram group:** [enlace](https://t.me/+Xf9vcdixHuQxM2Rh)
-
+* **Telegram group:** [enlace](https://t.me/+mf-CjSDfW5BkYmQx)
 <br>
 
 ---
