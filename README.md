@@ -33,11 +33,11 @@ El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes h
 ## Material adicional
 * **Hoja de formulas** [Descargar](https://github.com/marcoteran/lst/raw/master/mathsheets/mathsheetbasic.pdf)
 * **Instalación de MATLAB licencia Multicampus** [PDF](https://github.com/marcoteran/lst/raw/master/files/_others/matlabwidecampus_installation.pdf)
-* **Matlab Cheatsheet** [Descargar](https://github.com/marcoteran/lst/raw/master/laboratory/introtomatlab/documentation/MatlabCheatsheet.pdf)
 
 ---
 ## Foro literario
 Libro para leer durante el semestre:
 ***Peterson, Jordan.*** **12 reglas para la vida**. Planeta (2018).
+
 ---
 ## Bibliografía
