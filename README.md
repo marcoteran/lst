@@ -21,10 +21,10 @@ El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes h
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
 	<sub>**(*deadline:* 06.02.2023)**</sub>
-	
+
 ---
 ## Certificados
-**[Ingresar a Matlab Academy]**(https://matlabacademy.mathworks.com/es/)
+[**Ingresar a Matlab Academy**](https://matlabacademy.mathworks.com/es/)
 1. **Primer corte**
 	* <sub>MATLAB Onramp</sub>
 	* <sub>MATLAB Fundamentals</sub>
@@ -41,7 +41,7 @@ El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes h
 ---
 ## Foro literario
 Libro para leer durante el semestre:
-***Peterson, Jordan.*** **12 reglas para la vida**. Planeta (2018).
+[*Peterson, Jordan.* **12 reglas para vivir: Un antídoto al caos**. Planeta (2018).](https://www.goodreads.com/tr/book/show/42263558-12-reglas-para-vivir)
 
 ---
 ## Bibliografía
