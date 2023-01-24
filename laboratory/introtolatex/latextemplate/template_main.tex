@@ -1,0 +1,99 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%	Name: "Signal analysis template"
+%%	File name: signalanalysis_template_main
+%%	Version: 1.5
+%%
+%%	Compiler: XeLaTeX
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[conference,compsoc,onecolumn]{IEEEtran}
+
+% *** LANGUAGE UTILITY PACKAGES ***
+\usepackage[utf8]{inputenc} % Required for including letters with accents
+\usepackage[spanish]{babel}
+
+% *** USED PACKAGES ***
+\include{usedpackages}
+
+% *** CARPETA DONDE SE GUARDARAN LAS IMAGENES ***
+\graphicspath{{figures/}}
+
+% *** NUEVOS COMANDOS Y CONFIGURACIONES VARIAS ***
+\interdisplaylinepenalty=2500
+\newcommand{\Lpagenumber}{\ifdim\textwidth=\linewidth\else\bgroup
+	\dimendef\margin=0
+	\ifodd\value{page}\margin=\oddsidemargin
+	\else\margin=\evensidemargin
+	\fi
+	\raisebox{\dimexpr -\topmargin-\headheight-\headsep-0.5\linewidth}[0pt][0pt]{%
+		\rlap{\hspace{\dimexpr \margin+\textheight+\footskip}%
+			\llap{\rotatebox{90}{\thepage}}}}%
+	\egroup\fi}
+
+\AddEverypageHook{\Lpagenumber}%
+
+\newcommand{\newtxt}[1]{\textcolor{black}{#1}}
+\renewcommand\IEEEkeywordsname{Palabras cláve:}
+\newcommand{\mx}[1]{\mathbf{\bm{#1}}} % Matrix command
+\newcommand{\vc}[1]{\mathbf{\bm{#1}}} % Vector command
+
+%% Separación de palabras
+\hyphenation{op-tical net-works semi-conduc-tor HHMMSS}
+
+
+\begin{document}
+
+% *** TITLES AND NAMES ***
+% title of the document
+\title{Titulo del trabajo}
+% author names and affiliations
+\author{\IEEEauthorblockN{Nombre~Completo}
+\IEEEauthorblockA{Escuela de Ciencias Exactas e Ingeniería\\
+	Universidad Sergio Arboleda - Bogotá, Colombia\\
+	su.correo@usa.edu.co}}
+
+
+% *** MAKE TITLE ***
+\maketitle
+\IEEEoverridecommandlockouts
+\IEEEpeerreviewmaketitle
+
+\begin{abstract}
+Escriba aquí un resumen de su laboratorio
+\end{abstract}
+
+
+\begin{IEEEkeywords}
+    Keyword 1, Keyword 2, Keyword 3, Keyword 4.
+\end{IEEEkeywords}
+
+
+\section{Marco teórico}
+\label{sec:introduction}
+Escriba aquí su marco teórico.
+
+
+\section{Resultados}
+\label{sec:results}
+% Escriba su texto aquí
+
+\section{Conclusiones}
+\label{sec:conclusions}
+% Escriba su texto aquí
+
+
+\nocite{*}
+\bibliographystyle{IEEEtran}
+\label{sec:biblio}
+% Descomente y modiffique el archivo biblio.bib para agregar bibliografía
+%\bibliography{bib/biblio} 
+
+
+
+
+
+%\pagestyle{empty}
+\end{document}
+
+
