@@ -9,19 +9,15 @@ El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes h
 * Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y análisis de señales y sistemas.
 ### Información de contacto
 * **Telegram group:** [enlace](https://t.me/+mf-CjSDfW5BkYmQx)
-<br>
-
 ---
 ## Contenido
 0. **Presentación del curso *Teoría de Sistemas Lineales***
 	* Descargar presentación [PDF](https://github.com/marcoteran/lst/raw/master/lectures/00_linearsystemtheory_syllabus.pdf)
 		- **Taller 00:** *Taller de repaso matemático* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_mathematicalreview.pdf) <sub>**(*deadline:* 30.01.2023)**</sub>
-
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
 	<sub>**(*deadline:* 06.02.2023)**</sub>
-
 ---
 ## Certificados
 [**Ingresar a Matlab Academy**](https://matlabacademy.mathworks.com/es/)
@@ -37,11 +33,9 @@ El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes h
 ## Material adicional
 * **Hoja de formulas** [Descargar](https://github.com/marcoteran/lst/raw/master/mathsheets/mathsheetbasic.pdf)
 * **Instalación de MATLAB licencia Multicampus** [PDF](https://github.com/marcoteran/lst/raw/master/files/_others/matlabwidecampus_installation.pdf)
-
 ---
 ## Foro literario
 Libro para leer durante el semestre:
 [*Peterson, Jordan.* **12 reglas para vivir: Un antídoto al caos**. Planeta (2018).](https://www.goodreads.com/tr/book/show/42263558-12-reglas-para-vivir)
-
 ---
 ## Bibliografía
