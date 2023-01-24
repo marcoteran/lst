@@ -7,8 +7,8 @@ Se aprenderán los conceptos básicos detrás de la descripción matemática de 
 Se identificarán las partes que componen un sistema, describirá el sistema y lo adaptará a las características de linealidad principalmente.
 Se comprenderán las diferentes herramientas que existen para representar un sistema lineal en diferentes situaciones y bajo diferentes puntos de análisis.
 Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y análisis de señales y sistemas.
-
 ### Información de contacto
+* **Profesor:** [Marco Teran](https://marcoteran.github.io/)
 * **Telegram group:** [enlace](https://t.me/+mf-CjSDfW5BkYmQx)
 ---
 ## Contenido
@@ -38,7 +38,7 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 ## Foro literario
 
 Libro para leer durante el semestre:
-*Peterson, Jordan.* **12 reglas para vivir: Un antídoto al caos**. Planeta (2018). [goodreads](https://www.goodreads.com/tr/book/show/42263558-12-reglas-para-vivir)
+- *Peterson, Jordan.* **12 reglas para vivir: Un antídoto al caos**. Planeta (2018). [goodreads](https://www.goodreads.com/tr/book/show/42263558-12-reglas-para-vivir)
 
 ---
 ## Bibliografía
