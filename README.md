@@ -15,6 +15,9 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 0. **Presentación del curso *Teoría de Sistemas Lineales***
 	* Descargar presentación [PDF](https://github.com/marcoteran/lst/raw/master/lectures/00_linearsystemtheory_syllabus.pdf)
 		- **Taller 00:** *Taller de repaso matemático* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_mathematicalreview.pdf) <sub>**(*deadline:* 30.01.2023)**</sub>
+1. **Señales, sistemas y transformaciones**
+	* **Teoría de señales y análisis de sistemas** [PDF](https://github.com/marcoteran/lst/raw/master/lectures/01_linearsystemtheory_signaltheoryandsystems.pdf)
+
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
