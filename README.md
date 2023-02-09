@@ -18,6 +18,11 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 1. **Señales, sistemas y transformaciones**
 	* **Teoría de señales y análisis de sistemas** [PDF](https://github.com/marcoteran/lst/raw/master/lectures/01_linearsystemtheory_signaltheoryandsystems.pdf)
 	* **Señales y transformaciones** [PDF](https://github.com/marcoteran/lst/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
+	**(*deadline:* 01.09.2022)**</sub>
+		- **Taller 01:** *Teoría de señales* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_signaltheory.pdf)
+		<sub>**(*deadline:* 21.02.2023)**</sub>
+		- **Taller 02:** *Transformación de señales* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_signaltransformation.pdf)
+		<sub>**(*deadline:* 21.02.2023)**</sub>
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
