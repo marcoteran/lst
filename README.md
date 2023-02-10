@@ -31,6 +31,10 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
 	<sub>**(*deadline:* 06.02.2023)**</sub>
+2. **Laboratorio 02: *Introducción a MATLAB*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtomatlab.pdf)
+	<sub>**(*deadline:* 23.02.2022)**</sub>
+3. **Laboratorio 03: *Introducción a MATLAB: imágenes, audio y vídeo*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtomatlabimageaudiovideo.pdf)
+	<sub>**(*deadline:* 23.02.2022)**</sub>
 ---
 ## Certificados
 [**Ingresar a Matlab Academy**](https://matlabacademy.mathworks.com/es/)
