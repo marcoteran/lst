@@ -22,6 +22,7 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 		<sub>**(*deadline:* 21.02.2023)**</sub>
 		- **Taller 02:** *Transformación de señales* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_signaltransformation.pdf)
 		<sub>**(*deadline:* 21.02.2023)**</sub>
+	* **Propiedades, potencia y energía**  [PDF](https://github.com/marcoteran/lst/raw/master/lectures/03_linearsystemtheory_propiertiespowerenergy.pdf)
 	* **Códigos Matlab:** 
 		1. [holamundocruel.m](https://github.com/marcoteran/lst/raw/master/files/codes/holamundocruel.m)
 		2. [examplewithmedia.m](https://github.com/marcoteran/lst/raw/master/files/codes/examplewithmedia.m])
