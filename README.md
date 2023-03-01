@@ -26,7 +26,8 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 	* **Códigos Matlab:** 
 		1. [holamundocruel.m](https://github.com/marcoteran/lst/raw/master/files/codes/holamundocruel.m)
 		2. [examplewithmedia.m](https://github.com/marcoteran/lst/raw/master/files/codes/examplewithmedia.m])
-
+2. **Sistemas LTI y convolución de señales**
+	* **Sistemas LTI y Convolución de señales** [PDF](https://github.com/marcoteran/lst/raw/master/lectures/04_linearsystemtheory_ltisystemsandconvolution.pdf) [Example](https://github.com/marcoteran/lst/raw/master/files/slides/04b_convolutionoftwofunctions.pdf)
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
