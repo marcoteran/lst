@@ -23,11 +23,16 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 		- **Taller 02:** *Transformación de señales* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_signaltransformation.pdf)
 		<sub>**(*deadline:* 21.02.2023)**</sub>
 	* **Propiedades, potencia y energía**  [PDF](https://github.com/marcoteran/lst/raw/master/lectures/03_linearsystemtheory_propiertiespowerenergy.pdf)
+		- **Taller 03:** *Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_symmetryandperiodicity.pdf) <sub>**(*deadline:* 13.03.2022)**</sub>
+		- **Taller 04:** *Potencia y energía de señales* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_energyandpower.pdf) <sub>**(*deadline:* 13.03.2022)**</sub>
 	* **Códigos Matlab:** 
 		1. [holamundocruel.m](https://github.com/marcoteran/lst/raw/master/files/codes/holamundocruel.m)
 		2. [examplewithmedia.m](https://github.com/marcoteran/lst/raw/master/files/codes/examplewithmedia.m])
 2. **Sistemas LTI y convolución de señales**
 	* **Sistemas LTI y Convolución de señales** [PDF](https://github.com/marcoteran/lst/raw/master/lectures/04_linearsystemtheory_ltisystemsandconvolution.pdf) [Example](https://github.com/marcoteran/lst/raw/master/files/slides/04b_convolutionoftwofunctions.pdf)
+		- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_ltisystems.pdf) <sub>**(*deadline:* 13.03.2022)**</sub>
+		- **Taller 06:** *Convolución de señales continuas* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_continuousconvolution.pdf) <sub>**(*deadline:* 13.03.2022)**</sub>
+		- **Taller 07:** *Convolución de señales discretas* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_discreteconvolution.pdf) <sub>**(*deadline:* 13.03.2022)**</sub>
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
