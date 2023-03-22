@@ -33,6 +33,8 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 		- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_ltisystems.pdf) <sub>**(*deadline:* 13.03.2022)**</sub>
 		- **Taller 06:** *Convolución de señales continuas* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_continuousconvolution.pdf) <sub>**(*deadline:* 13.03.2022)**</sub>
 		- **Taller 07:** *Convolución de señales discretas* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_discreteconvolution.pdf) <sub>**(*deadline:* 13.03.2022)**</sub>
+3. **Análisis en el dominio de la frecuencia**
+	* **Series de Fourier** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/05_linearsystemtheory_fourierseries.pdf)
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
