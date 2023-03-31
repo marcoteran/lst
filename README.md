@@ -45,6 +45,7 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 	<sub>**(*deadline:* 23.02.2022)**</sub>
 3. **Laboratorio 03: *Introducción a MATLAB: imágenes, audio y vídeo*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtomatlabimageaudiovideo.pdf)
 	<sub>**(*deadline:* 23.02.2022)**</sub>
+4. **Laboratorio 04: *Convolución de señales*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB04_SignalConvolution.pdf) <sub>**(*deadline:* 13.04.2023)**</sub>
 ---
 ## Certificados
 [**Ingresar a Matlab Academy**](https://matlabacademy.mathworks.com/es/)
