@@ -35,8 +35,8 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 		- **Taller 07:** *Convolución de señales discretas* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_discreteconvolution.pdf) <sub>**(*deadline:* 13.03.2022)**</sub>
 3. **Análisis en el dominio de la frecuencia**
 	* **Series de Fourier** [PDF](https://github.com/marcoteran/lst/raw/master/lectures/05_linearsystemtheory_fourierseries.pdf)
-		- **Taller 08:** *Series de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/lst_ttq_continuousfourierseries.pdf) <sub>**(*deadline:* 10.04.2022)**</sub>
-		- **Taller 09:** *Series de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/lst_ttq_discretefourierseries.pdf) <sub>**(*deadline:* 10.04.2022)**</sub>
+		- **Taller 08:** *Series de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_continuousfourierseries.pdf) <sub>**(*deadline:* 10.04.2022)**</sub>
+		- **Taller 09:** *Series de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_discretefourierseries.pdf) <sub>**(*deadline:* 10.04.2022)**</sub>
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
@@ -45,7 +45,7 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 	<sub>**(*deadline:* 23.02.2022)**</sub>
 3. **Laboratorio 03: *Introducción a MATLAB: imágenes, audio y vídeo*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtomatlabimageaudiovideo.pdf)
 	<sub>**(*deadline:* 23.02.2022)**</sub>
-4. **Laboratorio 04: *Convolución de señales*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB04_SignalConvolution.pdf) <sub>**(*deadline:* 13.04.2023)**</sub>
+4. **Laboratorio 04: *Convolución de señales en MATLAB*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/LST_LAB04_SignalConvolution.pdf) <sub>**(*deadline:* 13.04.2023)**</sub>
 ---
 ## Certificados
 [**Ingresar a Matlab Academy**](https://matlabacademy.mathworks.com/es/)
