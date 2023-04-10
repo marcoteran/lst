@@ -37,6 +37,8 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 	* **Series de Fourier** [PDF](https://github.com/marcoteran/lst/raw/master/lectures/05_linearsystemtheory_fourierseries.pdf)
 		- **Taller 08:** *Series de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_continuousfourierseries.pdf) <sub>**(*deadline:* 10.04.2022)**</sub>
 		- **Taller 09:** *Series de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_discretefourierseries.pdf) <sub>**(*deadline:* 10.04.2022)**</sub>
+	* **Transformada de Fourier** [PDF](https://github.com/marcoteran/lst/raw/master/lectures/06_linearsystemtheory_fouriertransform.pdf)
+		* **TABLA** *Propiedades de la Transformada de Fourier* [PDF](https://github.com/marcoteran/lst/raw/master/mathsheets/refcard_fourierpropierties.pdf)
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
