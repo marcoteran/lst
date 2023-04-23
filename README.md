@@ -52,7 +52,7 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 	<sub>**(*deadline:* 23.02.2022)**</sub>
 4. **Laboratorio 04: *Convolución de señales en MATLAB*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/LST_LAB04_SignalConvolution.pdf) <sub>**(*deadline:* 13.04.2023)**</sub>
 5. **Laboratorio 05: *Análisis de Fourier en MATLAB*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_fourieranalysis.pdf) <sub>**(*deadline:* 27.04.2023)**</sub>
-	- **Laboratorio en clases: *Laboratorio de Análisis de Señales en Dominio de Frecuencia*** [RDM](marcoteran/lst/blob/master/laboratory/lst_lab_signalgenerator.md)
+	- **Laboratorio en clases: *Laboratorio de Análisis de Señales en Dominio de Frecuencia*** [RDM](laboratory/lst_lab_signalgenerator.md)
 ---
 ## Certificados
 [**Ingresar a Matlab Academy**](https://matlabacademy.mathworks.com/es/)
