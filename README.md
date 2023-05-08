@@ -42,6 +42,9 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 		- **Taller 10:** *Transformada de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_continuousfouriertransform.pdf) <sub>**(*deadline:* 27.04.2023)**</sub>
 		- **Taller 11:** *Transformada de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_discretefouriertransform.pdf) <sub>**(*deadline:* 27.04.2023)**</sub>
 		- **Taller 12:** *Problema de la Transformada de Fourier* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_fourierproblem.pdf) <sub>**(*deadline:* 27.04.2023)**</sub>
+5. **Transformada de Laplace**
+	* Transformada de Laplace [PDF](https://github.com/marcoteran/lst/raw/master/lectures/07_linearsystemtheory_laplacetransform.pdf)
+	
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
