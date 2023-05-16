@@ -44,6 +44,13 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 		- **Taller 12:** *Problema de la Transformada de Fourier* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_fourierproblem.pdf) <sub>**(*deadline:* 27.04.2023)**</sub>
 5. **Transformada de Laplace**
 	* Transformada de Laplace [PDF](https://github.com/marcoteran/lst/raw/master/lectures/07_linearsystemtheory_laplacetransform.pdf)
+	* **TABLA** *Transformadas de Laplace y propiedades de la transformada de Laplaces* [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/mathsheets/refcard_laplace.pdf)
+		- **Taller 13:** *Transformada de Laplace* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/lst_ttq_laplacetransform.pdf) <sub>**(*deadline:* 24.05.2023)**</sub>
+		- **Taller 14:** *Problema de la transformada de Laplace* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/lst_ttq_laplacetransformproblem.pdf) <sub>**(*deadline:* 24.05.2023)**</sub>
+6. **Transformada z**
+	* Transformada z [PDF](https://github.com/marcoteran/lst/raw/master/lectures/09_ztransform.pdf)
+		* **TABLA**Transformada z [Descargar](https://github.com/marcoteran/lst/raw/master/mathsheets/refcard_ztransform.pdf)
+		- **Taller 15:** *Transformada z* [Descargar](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_ztransform.pdf) <sub>**(*deadline:* 24.05.2023)**</sub>
 	
 ---		
 ## Laboratorios
