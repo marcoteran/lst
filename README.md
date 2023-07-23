@@ -19,7 +19,7 @@ Se identificarán las partes que componen un sistema, describirá el sistema y l
 Se comprenderán las diferentes herramientas que existen para representar un sistema lineal en diferentes situaciones y bajo diferentes puntos de análisis.
 Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y análisis de señales y sistemas.
 
-### Información de contacto
+#### Información de contacto:
 * **Profesor:** [Marco Teran](https://marcoteran.github.io/)
 * **Telegram group:** [enlace](https://t.me/+mf-CjSDfW5BkYmQx)
 ---
