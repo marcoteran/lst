@@ -11,6 +11,7 @@
 </div>
 ---
 
+---
 ## Descripción del curso
 El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes herramientas de la teoría de sistemas lineales.
 Se aprenderán los conceptos básicos detrás de la descripción matemática de la relación entre la respuesta de un sistema y su entrada.
