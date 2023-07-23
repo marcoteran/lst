@@ -9,7 +9,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/marcoteran/lst?color=%23fa251e&logo=GitHub)](https://github.com/marcoteran/lst/issues)
 ![Twitter Follow](https://img.shields.io/twitter/follow/marcotulioteran?style=social)
 </div>
----
+
 
 ---
 ## Descripción del curso
