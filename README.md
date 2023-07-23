@@ -99,15 +99,18 @@ Libro para leer durante el semestre:
 
 ---
 ## Bibliografía
-1. *A.V. Oppenheim, A.S. Willsky, and S.H. Nawab.* **Signals and Systems. Prentice-Hall signal processing series.** Prentice Hall, 1997. [Download]
-2. *E.W. Kamen and B.S. Heck.* **Fundamentals of Signals and Systems Using the Web and MATLAB.** Pearson Prentice Hall, 2007. [Download]
-3. *John G. Proakis and Dimitris K Manolakis.* **Digital signal processing: principles, algorithms, and application.** Pearson Education, Limited, 4th edition, 2007. [Download]
-4. *Matthew N. O. Sadiku and Warsame Hassan Ali.* **Signals and Systems: A Primer with MATLAB.** CRC Press, 2015. [Download]
-5. *W. Burger and M.J. Burge.* **Principles of Digital Image Processing: Core Algorithms. Undergraduate Topics in Computer Science.** Springer London, 2010. [Download]
+1. *A.V. Oppenheim, A.S. Willsky, and S.H. Nawab.* **Signals and Systems. Prentice-Hall signal processing series.** Prentice Hall, 1997. [Download](https://github.com/marcoteran)
+2. *E.W. Kamen and B.S. Heck.* **Fundamentals of Signals and Systems Using the Web and MATLAB.** Pearson Prentice Hall, 2007. [Download](https://github.com/marcoteran)
+3. *John G. Proakis and Dimitris K Manolakis.* **Digital signal processing: principles, algorithms, and application.** Pearson Education, Limited, 4th edition, 2007. [Download](https://github.com/marcoteran)
+4. *Matthew N. O. Sadiku and Warsame Hassan Ali.* **Signals and Systems: A Primer with MATLAB.** CRC Press, 2015. [Download](https://github.com/marcoteran)
+5. *W. Burger and M.J. Burge.* **Principles of Digital Image Processing: Core Algorithms. Undergraduate Topics in Computer Science.** Springer London, 2010. [Download](https://github.com/marcoteran)
 
 ---
+
 <div align="center">
+
 Hecho con ❤️ por [Marco Teran](https://github.com/marcoteran)
+
 </div>
 
 ---
