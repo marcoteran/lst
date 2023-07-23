@@ -1,5 +1,15 @@
 [![banner](/_assets/pics/bannerLST.png)](https://github.com/marcoteran/lst)
-# Teoría de Sistemas lineales - 2023-I
+---
+<div align="center">
+
+# Teoría de Sistemas lineales - 2023-II
+![GitHub](https://img.shields.io/github/license/marcoteran/lst)
+![GitHub stars](https://img.shields.io/github/stars/marcoteran/lst)
+![GitHub forks](https://img.shields.io/github/forks/marcoteran/lst)
+[![GitHub issues](https://img.shields.io/github/issues/marcoteran/lst?color=%23fa251e&logo=GitHub)](https://github.com/marcoteran/lst/issues)
+![Twitter Follow](https://img.shields.io/twitter/follow/marcotulioteran?style=social)
+</div>
+---
 
 ## Descripción del curso
 El curso **Teoría de Sistemas Lineales** presenta exhaustivamente importantes herramientas de la teoría de sistemas lineales.
@@ -7,10 +17,12 @@ Se aprenderán los conceptos básicos detrás de la descripción matemática de 
 Se identificarán las partes que componen un sistema, describirá el sistema y lo adaptará a las características de linealidad principalmente.
 Se comprenderán las diferentes herramientas que existen para representar un sistema lineal en diferentes situaciones y bajo diferentes puntos de análisis.
 Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y análisis de señales y sistemas.
+
 ### Información de contacto
 * **Profesor:** [Marco Teran](https://marcoteran.github.io/)
 * **Telegram group:** [enlace](https://t.me/+mf-CjSDfW5BkYmQx)
 ---
+
 ## Contenido
 0. **Presentación del curso *Teoría de Sistemas Lineales***
 	* Descargar presentación [PDF](https://github.com/marcoteran/lst/raw/master/lectures/00_linearsystemtheory_syllabus.pdf)
