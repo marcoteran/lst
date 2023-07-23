@@ -104,3 +104,10 @@ Libro para leer durante el semestre:
 3. *John G. Proakis and Dimitris K Manolakis.* **Digital signal processing: principles, algorithms, and application.** Pearson Education, Limited, 4th edition, 2007. [Download]
 4. *Matthew N. O. Sadiku and Warsame Hassan Ali.* **Signals and Systems: A Primer with MATLAB.** CRC Press, 2015. [Download]
 5. *W. Burger and M.J. Burge.* **Principles of Digital Image Processing: Core Algorithms. Undergraduate Topics in Computer Science.** Springer London, 2010. [Download]
+
+---
+<div align="center">
+Hecho con ❤️ por [Marco Teran](https://github.com/marcoteran)
+</div>
+
+---
