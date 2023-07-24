@@ -21,13 +21,12 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 
 #### Información de contacto:
 * **Profesor:** [Marco Teran](https://marcoteran.github.io/)
-* **Telegram group:** [https://t.me/+mf-CjSDfW5BkYmQx](https://t.me/+mf-CjSDfW5BkYmQx)
+* **Telegram group:** [https://t.me/+R7HloDrowRBiOTE5](https://t.me/+R7HloDrowRBiOTE5)
 ---
 
 ## Contenido
 0. **Presentación del curso *Teoría de Sistemas Lineales***
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/lst/raw/master/lectures/00_linearsystemtheory_syllabus.pdf)
-		- **Taller 00:** *Taller de repaso matemático* [[Download]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_mathematicalreview.pdf) <sub>**(*deadline:* 30.01.2023)**</sub>
 
 	
 ---		
