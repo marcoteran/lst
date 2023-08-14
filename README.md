@@ -30,11 +30,11 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 		- **Taller 00:** *Taller de repaso matemático* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_mathematicalreview.pdf) <sub>**(*deadline:* 03.08.2023)**</sub>
 1. **Señales, sistemas y transformaciones**
 	* **Teoría de señales y análisis de sistemas** [[PDF]](https://github.com/marcoteran/lst/raw/master/lectures/01_linearsystemtheory_signaltheoryandsystems.pdf)
-	* **Señales y transformaciones** [PDF](https://github.com/marcoteran/lst/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
+	* **Señales y transformaciones** [[PDF]](https://github.com/marcoteran/lst/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
-	* **[[cargar]](https://forms.office.com/)
+	* **[[cargar]]**(https://forms.office.com/)
 	<sub>**(*deadline:* 17.08.2023)**</sub>
 
 ---
