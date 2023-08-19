@@ -34,8 +34,8 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
-	* **[[cargar]]**(https://forms.office.com/)
-	<sub>**(*deadline:* 17.08.2023)**</sub>
+	* [**[cargar]**](https://forms.office.com/r/5TqRPD7FLn)
+	<sub>**(*deadline:* 22.08.2023)**</sub>
 
 ---
 ## Certificados
