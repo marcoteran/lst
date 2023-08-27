@@ -27,15 +27,29 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 ## Contenido
 0. **Presentación del curso *Teoría de Sistemas Lineales***
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/lst/raw/master/lectures/00_linearsystemtheory_syllabus.pdf)
-		- **Taller 00:** *Taller de repaso matemático* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_mathematicalreview.pdf) <sub>**(*deadline:* 03.08.2023)**</sub>
+		- **Taller 00:** *Taller de repaso matemático* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_mathematicalreview.pdf)
+			* <sub>**(*deadline:* 03.08.2023)**</sub>
 1. **Señales, sistemas y transformaciones**
 	* **Teoría de señales y análisis de sistemas** [[PDF]](https://github.com/marcoteran/lst/raw/master/lectures/01_linearsystemtheory_signaltheoryandsystems.pdf)
+		- **Taller 01:** *Teoría de señales* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_signaltheory.pdf)
+			* <sub>**(*deadline:* 07.09.2023)**</sub>
 	* **Señales y transformaciones** [[PDF]](https://github.com/marcoteran/lst/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
+		- **Taller 02:** *Transformación de señales* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_signaltransformation.pdf)
+			* <sub>**(*deadline:* 07.09.2023)**</sub>
+	* **Propiedades, potencia y energía**  [PDF](https://github.com/marcoteran/lst/raw/master/lectures/03_linearsystemtheory_propiertiespowerenergy.pdf)
+		- **Taller 03:** *Paridad y periodicidad de señales* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_symmetryandperiodicity.pdf)
+			* <sub>**(*deadline:* 07.09.2023)**</sub>
+		- **Taller 04:** *Potencia y energía de señales* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_energyandpower.pdf)
+			* <sub>**(*deadline:* 07.09.2023)**</sub>
 ---		
 ## Laboratorios
-1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
+1. **Laboratorio 01: *Introducción a LaTeX*** [[PDF]](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
 	* [**[cargar]**](https://forms.office.com/r/5TqRPD7FLn)
 	<sub>**(*deadline:* 22.08.2023)**</sub>
+2. **Laboratorio 02: *Introducción a MATLAB*** [[PDF]](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/lst_lab_introtomatlab.pdf)
+	* <sub>**(*deadline:* 4.09.2023)**</sub>
+3. **Laboratorio 03: *Introducción a MATLAB: imágenes, audio y vídeo*** [[PDF]](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/lst_lab_introtomatlabimageaudiovideo.pdf)
+	* <sub>**(*deadline:* 4.09.2023)**</sub>
 
 ---
 ## Certificados
@@ -53,6 +67,7 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 ## Material adicional
 * **Hoja de formulas** [[Download]](https://github.com/marcoteran/lst/raw/master/resources/mathsheets/mathsheetbasic.pdf)
 * **Instalación de MATLAB licencia Multicampus** [[PDF]](https://github.com/marcoteran/lst/raw/master/resources/_others/matlabwidecampus_installation.pdf)
+
 ---
 ## Foro literario
 
@@ -61,11 +76,12 @@ Libro para leer durante el semestre:
 
 ---
 ## Bibliografía
-1. *A.V. Oppenheim, A.S. Willsky, and S.H. Nawab.* **Signals and Systems. Prentice-Hall signal processing series.** Prentice Hall, 1997. [[Download]](https://github.com/marcoteran/lst/raw/master/resources/books/)
-2. *E.W. Kamen and B.S. Heck.* **Fundamentals of Signals and Systems Using the Web and MATLAB.** Pearson Prentice Hall, 2007. [[Download]](https://github.com/marcoteran/lst/raw/master/resources/books/)
-3. *John G. Proakis and Dimitris K Manolakis.* **Digital signal processing: principles, algorithms, and application.** Pearson Education, Limited, 4th edition, 2007. [[Download]](https://github.com/marcoteran/lst/raw/master/resources/books/)
-4. *Matthew N. O. Sadiku and Warsame Hassan Ali.* **Signals and Systems: A Primer with MATLAB.** CRC Press, 2015. [[Download]](https://github.com/marcoteran/lst/raw/master/resources/books/)
-5. *W. Burger and M.J. Burge.* **Principles of Digital Image Processing: Core Algorithms. Undergraduate Topics in Computer Science.** Springer London, 2010. [[Download]](https://github.com/marcoteran/lst/raw/master/resources/books/)
+* <sub>Entrar a la Bibliografía [[Entrar]](https://github.com/marcoteran/lst/raw/master/resources/books/)</sub>
+1. *A.V. Oppenheim, A.S. Willsky, and S.H. Nawab.* **Signals and Systems. Prentice-Hall signal processing series.** Prentice Hall, 1997.
+2. *E.W. Kamen and B.S. Heck.* **Fundamentals of Signals and Systems Using the Web and MATLAB.** Pearson Prentice Hall, 2007.
+3. *John G. Proakis and Dimitris K Manolakis.* **Digital signal processing: principles, algorithms, and application.** Pearson Education, Limited, 4th edition, 2007.
+4. *Matthew N. O. Sadiku and Warsame Hassan Ali.* **Signals and Systems: A Primer with MATLAB.** CRC Press, 2015.
+5. *W. Burger and M.J. Burge.* **Principles of Digital Image Processing: Core Algorithms. Undergraduate Topics in Computer Science.** Springer London, 2010.
 
 ---
 
