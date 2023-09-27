@@ -36,21 +36,29 @@ Se aprenderán a utilizar herramientas matemáticas que facilitan el estudio y a
 	* **Señales y transformaciones** [[PDF]](https://github.com/marcoteran/lst/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
 		- **Taller 02:** *Transformación de señales* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_signaltransformation.pdf)
 			* <sub>**(*deadline:* 07.09.2023)**</sub>
-	* **Propiedades, potencia y energía**  [PDF](https://github.com/marcoteran/lst/raw/master/lectures/03_linearsystemtheory_propiertiespowerenergy.pdf)
+	* **Propiedades, potencia y energía**  [[PDF]](https://github.com/marcoteran/lst/raw/master/lectures/03_linearsystemtheory_propiertiespowerenergy.pdf)
 		- **Taller 03:** *Paridad y periodicidad de señales* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_symmetryandperiodicity.pdf)
 			* <sub>**(*deadline:* 07.09.2023)**</sub>
 		- **Taller 04:** *Potencia y energía de señales* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_energyandpower.pdf)
 			* <sub>**(*deadline:* 07.09.2023)**</sub>
+2. **Sistemas LTI y convolución de señales**
+	* **Sistemas LTI y Convolución de señales** [[PDF]](https://github.com/marcoteran/lst/raw/master/lectures/04_linearsystemtheory_ltisystemsandconvolution.pdf) [[Example]](https://github.com/marcoteran/lst/raw/master/resources/slides/04b_convolutionoftwofunctions.pdf)
+		- **Taller 05:** *Sistemas LTI* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/lst_ttq_ltisystems.pdf) <sub>**(*deadline:* 05.10.2023)**</sub>
+		- **Taller 06:** *Convolución de señales continuas* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_continuousconvolution.pdf) <sub>**(*deadline:* 05.10.2023)**</sub>
+		- **Taller 07:** *Convolución de señales discretas* [[Descargar]](https://github.com/marcoteran/lst/raw/master/homeworks/LST_TTQ_discreteconvolution.pdf) <sub>**(*deadline:* 05.10.2023)**</sub>
 ---		
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a LaTeX*** [[PDF]](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_introtolatex.pdf)
 	* [**[cargar]**](https://forms.office.com/r/5TqRPD7FLn)
 	<sub>**(*deadline:* 22.08.2023)**</sub>
 2. **Laboratorio 02: *Introducción a MATLAB*** [[PDF]](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/lst_lab_introtomatlab.pdf)
-	* <sub>**(*deadline:* 4.09.2023)**</sub>
+	* [**[cargar]**](https://forms.office.com/r/)
+	<sub>**(*deadline:* 4.09.2023)**</sub>
 3. **Laboratorio 03: *Introducción a MATLAB: imágenes, audio y vídeo*** [[PDF]](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/lst_lab_introtomatlabimageaudiovideo.pdf)
-	* <sub>**(*deadline:* 4.09.2023)**</sub>
-
+	* [**[cargar]**](https://forms.office.com/r/)
+	<sub>**(*deadline:* 10.09.2023)**</sub>
+4. **Laboratorio 04: *Convolución de señales en MATLAB*** [[PDF]](https://github.com/marcoteran/lst/raw/master/laboratory/LST_LAB04_SignalConvolution.pdf) <sub>**(*deadline:* 13.10.2023)**</sub>
+5. **Laboratorio 05: *Análisis de Fourier en MATLAB*** [[PDF]](https://github.com/marcoteran/lst/raw/master/laboratory/lst_lab_fourieranalysis.pdf) <sub>**(*deadline:* 26.10.2023)**</sub>
 ---
 ## Certificados
 [**Ingresar a Matlab Academy**](https://matlabacademy.mathworks.com/es/)
